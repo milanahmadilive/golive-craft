@@ -15,7 +15,7 @@ Windows 10 or 11 (64-bit). About 170 MB. GoLive Craft updates itself after that.
 - A Windows PC with **8 GB of memory or more** (Minecraft and the server run on the same PC)
 - **Minecraft: Java Edition**
 - A TikTok account that can go LIVE, and a **TikTok sign key** from [eulerstream.com](https://www.eulerstream.com)
-  (the app explains it during setup). YouTube is optional.
+  (the app explains it during setup)..
 - Only for making your own events: a **Claude plan** (Pro or higher) and the [Claude app](https://claude.com/download)
 
 ## Install
