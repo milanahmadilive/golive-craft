@@ -26,7 +26,7 @@ Windows 10 or 11 (64-bit). About 170 MB. GoLive Craft updates itself after that.
    installing everything (one button), joining in Minecraft, and trying every event on yourself.
 
 ## Go live
-1. Start your TikTok LIVE (and YouTube, if you use it).
+1. Start your TikTok LIVE 
 2. In GoLive Craft, press **GO LIVE**.
 3. In Minecraft: **Multiplayer → Direct Connection → `localhost`**.
 
