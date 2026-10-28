@@ -1,10 +1,10 @@
 # GoLive Craft
 
-**Turn your TikTok and YouTube LIVE into a Minecraft show.** Viewers type a mob's name in chat and it spawns next
-to you with their name above it. Gifts and Super Chats start events: bosses, armies, tsunamis, time rewinds and
+**Turn your TikTok LIVE into a Minecraft show.** Viewers type a mob's name in chat and it spawns next
+to you with their name above it. Gifts start events: bosses, armies, tsunamis, time rewinds and
 more. One click to go live.
 
-Made by Milan ([TikTok @platinum6069](https://www.tiktok.com/@platinum6069) · [YouTube @plasticplaysgaming](https://www.youtube.com/@plasticplaysgaming))
+Made by MilanAHMADI
 for the **Go Live for a Living** community. Free to use.
 
 ## ⬇ [Download GoLive Craft for Windows](https://github.com/milanahmadilive/golive-craft/releases/latest/download/GoLiveCraft-Setup.exe)
