@@ -1,8 +1,9 @@
 # GoLive Craft
 
-**Turn your TikTok LIVE into a Minecraft show.** Viewers type a mob's name in chat and it spawns next
-to you with their name above it. Gifts start events: bosses, armies, tsunamis, time rewinds and
-more. One click to go live.
+**Turn your TikTok LIVE into a Minecraft show.** Two modes, one click to go live:
+- **Type to Spawn**: viewers type a mob's name in chat and it spawns next to you with their name above it. Gifts
+  start events: bosses, armies, tsunamis, time rewinds and more.
+- **Parkour**: gifts move you up and down a 100-level course, start a reset countdown, save you or punch you.
 
 Made by MilanAHMADI
 for the **Go Live for a Living** community. Free to use.
@@ -15,7 +16,7 @@ Windows 10 or 11 (64-bit). About 170 MB. GoLive Craft updates itself after that.
 - A Windows PC with **8 GB of memory or more** (Minecraft and the server run on the same PC)
 - **Minecraft: Java Edition**
 - A TikTok account that can go LIVE, and a **TikTok sign key** from [eulerstream.com](https://www.eulerstream.com)
-  (the app explains it during setup)..
+  (the app explains it during setup).
 - Only for making your own events: a **Claude plan** (Pro or higher) and the [Claude app](https://claude.com/download)
 
 ## Install
@@ -30,16 +31,23 @@ Windows 10 or 11 (64-bit). About 170 MB. GoLive Craft updates itself after that.
 2. In GoLive Craft, press **GO LIVE**.
 3. In Minecraft: **Multiplayer → Direct Connection → `localhost`**.
 
-Every gift, Super Chat, event and world rule can be changed in the app: **Gifts**, **Chat Mobs**, **Events** and
-**World Rules**.
+Every gift, Super Chat, event and world rule can be changed in the app. **Modes** has each mode's gifts (pick any
+TikTok gift by its picture and name), Super Chats and settings; **Chat Mobs**, **Events** and **World Rules** are
+for Type to Spawn.
+
+## Parkour
+- Play the 100-level course built into GoLive Craft (the same every live), or a parkour map you downloaded
+  yourself: **Modes → Parkour → Settings → Import a map**. Check the map's terms: many let you stream them with
+  credit, and the credit you add shows on your overlay.
+- An optional overlay for OBS or TikTok LIVE Studio shows the level, the reset countdown and who did what.
 
 ## Make your own events with Claude
 In GoLive Craft, open **Creator Studio**:
 1. Get the [Claude app](https://claude.com/download) and sign in with your Claude plan.
 2. In Claude, open the **Code** tab and choose your creations folder (Creator Studio shows it and has a
    **Copy** button).
-3. Tell Claude what you want, like *"Add a 50-coin gift that spawns a giant chicken army that explodes into
-   cake"*. Claude builds it and tests it on a hidden test world.
+3. Tell Claude what you want, like *"Make the Rose start a giant chicken army that explodes into cake"*. Claude
+   builds it and tests it on a hidden test world.
 4. Back in Creator Studio: **Try it now**, then **Keep** or **Undo**. Every change you keep is saved, and you can
    go back to any version.
 
