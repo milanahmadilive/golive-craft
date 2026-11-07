@@ -39,7 +39,10 @@ for Type to Spawn.
 - Play the 100-level course built into GoLive Craft (the same every live), or a parkour map you downloaded
   yourself: **Modes → Parkour → Settings → Import a map**. Check the map's terms: many let you stream them with
   credit, and the credit you add shows on your overlay.
-- An optional overlay for OBS or TikTok LIVE Studio shows the level, the reset countdown and who did what.
+- **New: GoLive Parkour v2 (preview)**, a course of themed rooms, one per level, each with its own trick. Levels
+  1–20 are ready to try, and more are on the way. Choose it under **Modes → Parkour → Settings → Course**.
+- On screen: a run timer next to your level, and the reset countdown as one big number. An optional overlay for OBS
+  or TikTok LIVE Studio shows the level, the timer, the countdown and who did what.
 
 ## Make your own events with Claude
 In GoLive Craft, open **Creator Studio**:
