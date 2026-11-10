@@ -31,9 +31,8 @@ Windows 10 or 11 (64-bit). About 170 MB. GoLive Craft updates itself after that.
 2. In GoLive Craft, press **GO LIVE**.
 3. In Minecraft: **Multiplayer → Direct Connection → `localhost`**.
 
-Every gift, Super Chat, event and world rule can be changed in the app. **Modes** has each mode's gifts (pick any
-TikTok gift by its picture and name), Super Chats and settings; **Chat Mobs**, **Events** and **World Rules** are
-for Type to Spawn.
+Every gift, event and world rule can be changed in the app. **Modes** has each mode's gifts (pick any TikTok gift
+by its picture and name) and settings; **Chat Mobs**, **Events** and **World Rules** are for Type to Spawn.
 
 ## Parkour
 - Play the 100-level course built into GoLive Craft (the same every live), or a parkour map you downloaded
