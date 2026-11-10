@@ -27,25 +27,26 @@ Windows 10 or 11 (64-bit). About 170 MB. GoLive Craft updates itself after that.
    installing everything (one button), joining in Minecraft, and trying every event on yourself.
 
 ## Go live
-1. Start your TikTok LIVE 
-2. In GoLive Craft, press **GO LIVE**.
-3. In Minecraft: **Multiplayer → Direct Connection → `localhost`**.
+1. The first time: in **Modes**, press **Select mode** on Type to Spawn or Parkour, and choose its gifts in its
+   **Settings** (pick any TikTok gift by its picture and name).
+2. Start your TikTok LIVE.
+3. In GoLive Craft, press **GO LIVE**.
+4. In Minecraft: **Multiplayer → Direct Connection → `localhost`**.
 
-Every gift, event and world rule can be changed in the app. **Modes** has each mode's gifts (pick any TikTok gift
-by its picture and name) and settings; **Chat Mobs**, **Events** and **World Rules** are for Type to Spawn.
+Everything about a mode is in its **Settings**: its TikTok gifts, and for Type to Spawn its chat mobs, events and
+world rules; for Parkour its countdown, saves, punches and more.
 
 ## Parkour
-- Play the 100-level course built into GoLive Craft (the same every live), or a parkour map you downloaded
-  yourself: **Modes → Parkour → Settings → Import a map**. Check the map's terms: many let you stream them with
-  credit, and the credit you add shows on your overlay.
-- **New: GoLive Parkour v2**: 100 themed rooms in 10 worlds, from the Meadowlands to the End, each with its own
-  trick, on a sea of clouds at sunset. Every level is a bit harder than the one before, and level 100 is an arena of
-  its own: four zones round the dragon egg. Choose it under **Modes → Parkour → Settings → Course**.
+- **GoLive Parkour**: 100 themed rooms in 10 worlds, from the Meadowlands to the End, each with its own trick, on a
+  sea of clouds at sunset. Every level is a bit harder than the one before, and level 100 is an arena of its own:
+  four zones round the dragon egg.
 - You arrive in the lobby, looking over the whole course. Its portal starts a run at level 1, and the level machine
   beside it, or the **Level Map** in your hotbar while you play, takes you back 1 level, back 10 or to any level
   (jumping ahead is a practice run). Touch the dragon egg to win, and the ender dragon flies you home.
-- On screen: your level and run time sit low, out of your way, and the reset countdown shows the gift that saves
-  you. An optional overlay for OBS or TikTok LIVE Studio shows the level, the timer, the countdown and who did what.
+- When a gift moves you up or down, the camera flies over the course to your new room first, so viewers see where
+  you land.
+- Everything happens in the game: your level and run time sit low on screen, out of your way, and the reset
+  countdown shows the gift that saves you. In Parkour only gifts do something; chat doesn't spawn mobs.
 
 ## Make your own events with Claude
 In GoLive Craft, open **Creator Studio**:
